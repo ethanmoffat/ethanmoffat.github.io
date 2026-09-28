@@ -50,6 +50,11 @@ h1 {
     color: var(--muted);
 }
 
+h2.section {
+    margin: 48px 0 8px;
+    font-size: 1.5em;
+}
+
 .libraries {
     display: grid;
     gap: 16px;
@@ -79,4 +84,13 @@ h1 {
     gap: 16px;
     margin-top: 8px !important;
     font-size: 0.9em;
+}
+
+.author {
+    margin-left: auto;
+    color: var(--muted);
+}
+
+.author a {
+    color: inherit;
 }

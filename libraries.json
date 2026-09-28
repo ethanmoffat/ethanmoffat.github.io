@@ -1,0 +1,8 @@
+{
+  "source": "https://raw.githubusercontent.com/cirras/eo-protocol/master/README.md",
+  "exclude_owners": ["ethanmoffat"],
+  "docs": {
+    "exilestudios/eolib-php": "https://exilestudios.github.io/eolib-php/",
+    "sorokya/eolib-rs": "https://docs.rs/eolib"
+  }
+}
